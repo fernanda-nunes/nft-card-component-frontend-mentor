@@ -1,6 +1,6 @@
-# NFT preview card component - Frontend Mentor
+# NFT preview card component
 
-<p><b>Esta é uma solução para o desafio do site Frontend Mentor, que desenvolve habilidades de HTML e CSS</b></p>
+<p><b>Esta é uma solução para o exercíco do módulo de HTML e CSS , do curso DevQuest</b></p>
 
 ## Visão Geral 
 
